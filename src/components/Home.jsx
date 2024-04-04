@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from '../assets/heroimage.png'
+import HeroImage from '../../src/assets/heroimage.png'
 // import { FaCircleArrowRight } from "react-icons/fa6";
 import { FaArrowRightToBracket } from "react-icons/fa6";
 import { Link } from 'react-scroll'
