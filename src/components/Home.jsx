@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from '../../src/assets/heroimage.png'
+import HeroImage from '../assets/hero.png'
 // import { FaCircleArrowRight } from "react-icons/fa6";
 import { FaArrowRightToBracket } from "react-icons/fa6";
 import { Link } from 'react-scroll'
@@ -34,7 +34,7 @@ My journey in software development began with a curiosity to understand how tech
               </div>
 
               <div>
-                <img src = {HeroImage } alt = "my profile" className='rounded-3xl mx-auto w-2/3 md:w-3/5'/>
+                <img src = {HeroImage} alt = "my profile" className='rounded-3xl mx-auto w-2/3 md:w-3/5'/>
               </div>
 
        </div>

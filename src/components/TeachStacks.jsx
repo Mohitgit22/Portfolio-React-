@@ -4,11 +4,8 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-// import nextjs from "../assets/nextjs.png";
-// import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-
 import cplus from '../assets/c++.jpg';
 import git from '../assets/git.jpg';
 import mongodb from '../assets/mongodb.png';
