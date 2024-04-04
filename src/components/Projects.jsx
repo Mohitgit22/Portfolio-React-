@@ -34,15 +34,15 @@ const Projects = () => {
   return (
     <div
       name="projects"
-      className="bg-gradient-to-b from-black to-gray-800 w-full text-white
+      className="bg-gradient-to-b from-black to-gray-800 w-full text-white py-8
       ">
 
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full">
-        <div className='pb-28'>
-          <p className="text-6xl font-bold inline border-b-4 border-gray-500">
+        <div className='pb-2'>
+          <p className="text-6xl font-bold inline border-b-4 border-gray-500 ">
             Projects
           </p>
-          <p className="py-6">Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.</p>
+          <p className="py-16">Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.</p>
 
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-12 px-12 sm:px-0">
             {projects.map(({ id, src, title, href, description }) => (
@@ -71,7 +71,7 @@ const Projects = () => {
           </div>
         </div>
       </div>
-    </div>
+     </div>
   );
 };
 
