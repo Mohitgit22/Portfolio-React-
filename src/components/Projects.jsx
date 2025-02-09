@@ -1,7 +1,7 @@
 import React from "react";
-import ecommerce from '../assets/portfolio/ecommerce.jpg';
+import skyguide from '../assets/portfolio/ecommerce.jpg';
 import chatgpt from '../assets/portfolio/voiceassistgpt-4.jpg';
-import bookingservice from '../assets/portfolio/airlinemanagement.jpg';
+import code_snippet from '../assets/portfolio/airlinemanagement.jpg';
 import { VscGithub } from "react-icons/vsc";
 
 
@@ -10,10 +10,10 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      src: ecommerce,
-      title: "E-Commerce-Backend",
-      href: "https://github.com/Mohitgit22/NodeJS-E-Commerce-Backend-API",
-      description: `Using Node.js, Express.js, MongoDB it provides functionalities essential for managing various aspects of an online store, including user authentication, product management, order processing, and more.`
+      src: skyguide,
+      title: "SkyGuide - Weather Application",
+      href: "https://github.com/Mohitgit22/SkyGuide",
+      description: "A React-based weather app providing real-time updates, 5-day forecasts, and hourly weather details. Built with ReactJS, OpenWeatherMap API, Luxon, and Tailwind CSS, it features city-based search and a temperature toggle between Celsius and Fahrenheit."
     },
     {
       id: 2,
@@ -24,11 +24,11 @@ const Projects = () => {
     },
     {
       id: 3,
-      src: bookingservice,
-      title: "Airline Management ",
-      href: "https://github.com/Mohitgit22/AirTicketBookingService",
-      description: 'AirTicketBookingService facilitates airline ticket reservations with user authentication, flight search, booking management. flight information and search capabilities offering APIs for flight retrieval and search by date, destination, and airline.'
-    },
+      src: code_snippet,
+      title: "Code Snippet Storing Application",
+      href: "https://github.com/Mohitgit22/Snippets",
+      description: "A Next.js-based platform for storing and managing code snippets with CRUD operations. It uses Prisma with PostgreSQL for data handling, CodeMirror for editing, and integrates Google Generative AI for AI-powered code suggestions."
+    } 
   ];
 
   return (

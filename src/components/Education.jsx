@@ -12,9 +12,9 @@ function About() {
         </div>
         <p className='text-xl mt-12'>
 
-          A 2nd-year B.Tech student pursuing Computer Science and Engineering at IIIT Ranchi, deeply passionate about web development .
+          A 3rd-year B.Tech student pursuing Computer Science and Engineering at IIIT Ranchi, deeply passionate about web development .
           <br />
-          With a commendable CGPA  of <span className='font-bold text-3xl text-cyan-500'>9.25 </span> <span className="text-yellow-500 text-sm">2nd year IIIT RANCHI</span>,
+          With a CGPA  of <span className='font-bold text-3xl text-cyan-500'>9.39 </span> <span className="text-yellow-500 text-sm"> and department rank 1 in 3rd year IIIT RANCHI</span>,
           <br /> I am dedicated to excelling in my studies while simultaneously honing my skills in web development.
           <br />
           <br /> My academic journey reflects my commitment to excellence, with a remarkable

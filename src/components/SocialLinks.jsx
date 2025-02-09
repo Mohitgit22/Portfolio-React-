@@ -41,7 +41,7 @@ function SocialLinks() {
                 Resume <BsFillPersonLinesFill size={30}/>
               </>
             ),
-            href: '/MohitVerma_Resume.pdf',
+            href: '/Mohit_latestresume.pdf',
             style: 'rounded-br-md',
             download:true,
         },
