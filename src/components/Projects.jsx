@@ -1,7 +1,7 @@
 import React from "react";
-import skyguide from '../assets/portfolio/ecommerce.jpg';
+import skyguide from '../assets/portfolio/skyguide.png';
 import chatgpt from '../assets/portfolio/voiceassistgpt-4.jpg';
-import code_snippet from '../assets/portfolio/airlinemanagement.jpg';
+import code_snippet from '../assets/portfolio/code_snippet.png';
 import { VscGithub } from "react-icons/vsc";
 
 
