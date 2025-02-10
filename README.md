@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello! I'm **Mohit Verma**, a passionate and driven software developer who loves building innovative web applications. My goal is to create exceptional digital experiences through clean, efficient, and scalable code. With expertise in the **MERN Stack** (MongoDB, Express.js, React, and Node.js), I am dedicated to solving real-world problems with technology.
+Hello! I'm **Mohit Verma**, a passionate  driven software developer who loves building innovative web applications. My goal is to create exceptional digital experiences through clean, efficient, and scalable code. With expertise in the **MERN Stack** (MongoDB, Express.js, React, and Node.js), I am dedicated to solving real-world problems with technology.
 
 ## About Me
 
@@ -10,12 +10,12 @@ I thrive on collaboration, problem-solving, and turning ideas into functional, u
 
 ### Technologies & Tools I Use
 
-- **Frontend**: React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Redux
-- **Backend**: Node.js, Express.js, REST APIs, GraphQL
-- **Database**: MongoDB, MySQL
+- **Frontend**: React.js,Next.js, JavaScript, HTML5, CSS, Tailwind CSS, Redux
+- **Backend**: Node.js, Express.js, REST APIs, 
+- **Database**: MongoDB, MySQL,PostgreSQL
 - **Version Control**: Git, GitHub
-- **Deployment**: Heroku, Netlify, Vercel, AWS
-- **Others**: Socket.IO, Docker, Postman, Nginx, JWT Authentication, OAuth2
+- **Deployment**: Heroku,Render, Netlify, Vercel, AWS
+- **Others**: Socket.IO, Docker, Postman, JWT Authentication, OAuth2,Clerk
 
 ### **CodeRush Contest**
 Secured a **Top 30 rank** in the **CodeRush contest** organized by **AlgoUniversity at IIIT Ranchi**.
