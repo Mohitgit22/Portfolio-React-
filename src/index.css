@@ -14,3 +14,28 @@
     font-weight: 600;
   }
 }
+.typing-effect {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 4px solid rgba(255, 255, 255, 0.75);
+  width: 0;
+  animation: typing 3s steps(30) 1s forwards, blink-caret 0.75s step-end infinite;
+}
+
+/* Typing animation */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* Cursor blinking effect */
+@keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}

@@ -11,6 +11,10 @@ import git from '../assets/git.jpg';
 import mongodb from '../assets/mongodb.png';
 import node from '../assets/node.png';
 import python from '../assets/python.jpg';
+import postgresql from '../assets/postgresql.png';
+import nextjs from '../assets/nextjs.png';
+import prisma from '../assets/prisma.png';
+import shadcn_ui from '../assets/shadcn_ui.png';
 import c from '../assets/c.jpg';
 
 
@@ -88,12 +92,37 @@ const TechStacks = () => {
         title: "Python",
         style: "shadow-yellow-400",
       },
+      {
+        id: 13,
+        src: nextjs,
+        title: "NextJs",
+        style: "shadow-violet-900",
+      },
+      {
+        id: 14,
+        src: postgresql,
+        title: "PostgreSQL",
+        style: "shadow-blue-400",
+      },
+      {
+        id: 15,
+        src: prisma,
+        title: "Prisma",
+        style: "shadow-yellow-400",
+      },
+      {
+        id: 16,
+        src: shadcn_ui,
+        title: "ShadCN UI",
+        style: "shadow-orange-500",
+      },
   ];
 
   return (
     <div
       name="tech stacks"
-      className="bg-gradient-to-b from-gray-800 to-black w-full py-8"
+      // className="bg-gradient-to-b from-gray-800 to-black w-full py-8"
+      className=" w-full py-8"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full  text-white  ">
         <div className="pt-2">
